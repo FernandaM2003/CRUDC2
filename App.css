@@ -1,0 +1,29 @@
+.sucess, .error{
+    color: white;
+    padding: 5px;
+    margin: 5px 0 15px 0;
+}
+.sucess {
+    background: green;
+}
+.error{
+    background: red;
+}
+body{
+    background-color: white;
+}
+#card{
+    justify-content: center;
+    align-items: center;
+}
+#h4{
+    text-align: center;
+}
+*{
+    justify-content: center;
+    text-align: center;
+}
+#img-fluid{
+    height: 200px;
+    width: 200px;
+}
